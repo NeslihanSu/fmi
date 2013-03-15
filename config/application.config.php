@@ -14,7 +14,6 @@ return array(
         'AntonTonev',
         'MargaritaKrushkova',
         'StoyanAtanasoff',
-<<<<<<< HEAD
     'IvelinaVelcheva',
     'MihaelaKerkenekova',
     'MartinManov',
@@ -25,20 +24,8 @@ return array(
     // 'VanyaDimitrova',
     'ElitsaNedyalkova',
      'NeslihanSuleyman',
+    'VasilVasilev',
 
-
-=======
-		'IvelinaVelcheva',
-		'MihaelaKerkenekova',
-		'MartinManov',
-		'MarinaGatova',
-		'PaolaShumanova',
-		'NikoletaPoibrenska',
-		'PetyaStavarova',
-		// 'VanyaDimitrova',
-		'ElitsaNedyalkova',
-		'VasilVasilev',
->>>>>>> refs/remotes/upstream/master
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
